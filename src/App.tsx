@@ -143,7 +143,7 @@ function App() {
   return (
     <main>
       <header>
-        <h1>Slack Emoji Slicer</h1>
+        <h1>slack emoter</h1>
         <p>
           Slice an image into a grid of emoji, upload them to Slack, and paste
           one macro to rebuild the whole picture.
